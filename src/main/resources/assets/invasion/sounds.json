@@ -1,0 +1,12 @@
+{
+  "item.stormbreaker_break.hit": {
+    "category": "item",
+    "subtitle": "item.stormbreaker_break.hit",
+    "sounds": [
+      {
+        "name": "invasion:item/item.stormbreaker_break.hit",
+        "stream": true
+      }
+    ]
+  }
+}

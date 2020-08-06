@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "invasion:blocks/uru_ore",
+    "all": "invasion:blocks/uru_ore"
+  }
+}

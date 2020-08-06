@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "UUU",
+    "UIU",
+    " I "
+  ],
+  "key": {
+    "U": {
+      "item": "invasion:uru_ingot"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "invasion:stormbreaker"
+  }
+}

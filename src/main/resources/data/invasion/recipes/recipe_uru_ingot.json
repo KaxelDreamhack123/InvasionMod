@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient":{
+    "item": "invasion:uru_ore"
+  },
+  "result": "invasion:uru_ingot",
+  "experience": 20.0,
+  "cookingtime": 1000
+}
